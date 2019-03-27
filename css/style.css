@@ -1299,7 +1299,7 @@ img {
   padding: 3rem 0 0;
 }
 .article {
-  padding: 3rem 0;
+  padding: 1rem 0;
 }
 .article-inner {
   overflow: hidden;
@@ -1627,7 +1627,7 @@ img {
   }
 }
 .articles .article {
-  padding: 4.5rem 0;
+  padding: 1rem 0;
 }
 .articles .article:not(:last-child) {
   border-bottom: 0.1rem #e6e6e6 solid;
